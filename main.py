@@ -68,7 +68,7 @@ if (user_input == 'y'):
 
   if(user_input == 'n'):
     
-    while (computer_total<21):
+    while (computer_total<17):
           computer_choice_card.append(random.choice(cards))
           computer_total= sum(computer_choice_card)
           if(computer_total>21):
