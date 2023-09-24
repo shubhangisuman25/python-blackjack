@@ -1,9 +1,9 @@
-## BlackJack
+# BlackJack
 
 Blackjack is an incredibly popular, exciting and easy card game to play. The object is to have a hand with a total value higher than the dealer’s without going over 21.
 
 
-# Instructions
+## Instructions
 
 Kings, Queens, Jacks and Tens are worth a value of 10. An Ace has the value of 1 or 11. The remaining cards are counted at face value
 
@@ -14,7 +14,7 @@ Once all cards are drawn, whoever has a total closer to 21 than the dealer wins.
 
 
 
-# Sample Option 1.
+### Sample Option 1.
 ```
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
@@ -39,7 +39,7 @@ computer cards: [1, 9, 6, 10]
 
 ```
 
-# Sample Option 2.
+### Sample Option 2.
 ```
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
@@ -66,7 +66,7 @@ computer cards: [10, 4, 1, 10]
 
 
 ```
-# Sample Option 2.
+### Sample Option 3.
 ```
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
